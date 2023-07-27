@@ -3,7 +3,7 @@ import rocket from './rocket.png';
 import schedules from './Schedules.png';
 import members from './Members.png';
 import frame from './Frame.png';
-import './App.css';
+import './header.css';
 
 function App() {
   return (
